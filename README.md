@@ -37,6 +37,7 @@ yarn dev
 # Mock Data
 
 
+```
 users:
 
 ghouse@gyant.com
@@ -45,6 +46,5 @@ cyang@gyant.com
 
 (passwords same as email)
 
-```
 
 ```
