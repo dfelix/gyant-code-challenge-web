@@ -32,10 +32,10 @@ yarn install
 
 yarn dev
 
+```
 
 # Mock Data
 
-```
 
 users:
 
