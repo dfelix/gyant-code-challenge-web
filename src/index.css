@@ -1,0 +1,44 @@
+.header {
+  text-align: right;
+}
+
+.frame {
+  border: 1px solid #d1d1d1;
+  border-radius: 4px;
+  padding: 6px 10px;
+  height: 50vh;
+  white-space: pre-line;
+}
+
+select {
+  width: 100%;
+  height: 250px;
+}
+
+button[disabled],
+button[disabled]:hover {
+  background: #ccc;
+  border-color: #ccc;
+  text-shadow: none;
+  cursor: not-allowed;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box {
+  border: 1px solid #d1d1d1;
+  border-radius: 4px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box button {
+  width: 100%;
+}
